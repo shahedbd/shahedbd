@@ -1,4 +1,4 @@
-- 👋 Hi, I’m R M Shahidul Islam Shahed
+- 👋 Hi, I’m Shahed
 - 💻 <a href="https://codecanyon.net/user/shaheddev" rel="nofollow">Checkout My Recent Project</a>
 - 👀 I’m interested in .Net Tech
 - 🌱 I’m currently learning Anvacne ASP.NET Core
