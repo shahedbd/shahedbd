@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Shahed
+- 🚀 <a href="https://1.envato.market/7mA73y" rel="nofollow">.NET Pro Project</a>
 - 💻 <a href="https://apps.microsoft.com/store/detail/net-speed-meter/9NMBX01PXZ4L" rel="nofollow">Architect and Owner of Net Speed Meter</a>
 - 👀 I’m interested in .Net Tech
 - 🌱 I’m currently learning Anvacne ASP.NET Core
-- <a href="https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg" rel="nofollow">My Youtube Blog</a>
+- ❤️ <a href="https://www.youtube.com/channel/UCdHAVwuNUtfqZRFVI6qf7mg" rel="nofollow">My Youtube Blog</a>
 
 
 - 📫 How to reach me ...
